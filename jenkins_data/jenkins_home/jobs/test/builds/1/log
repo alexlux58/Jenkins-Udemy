@@ -1,0 +1,27 @@
+Started by user [8mha:////4EwmPG8l+l5OY6eyBlgs3ERjw1lAEh+8b8ZxNf9EJfyAAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZ+/dLi1CL9xJzUipzSClMLAB/PhenEAAAA[0mAlex Lux
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins6220836531053805454.sh
++ ls /var/jenkins_home
+config.xml
+copy_reference_file.log
+hudson.model.UpdateCenter.xml
+hudson.plugins.git.GitTool.xml
+identity.key.enc
+jenkins.install.InstallUtil.lastExecVersion
+jenkins.install.UpgradeWizard.state
+jenkins.model.JenkinsLocationConfiguration.xml
+jenkins.telemetry.Correlator.xml
+jobs
+nodeMonitors.xml
+nodes
+plugins
+secret.key
+secret.key.not-so-secret
+secrets
+updates
+userContent
+users
+war
+workspace
+Finished: SUCCESS
