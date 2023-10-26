@@ -18,5 +18,14 @@ services:
       context: centos7
     networks:
       - net
+  db_host:
+    container_name: db
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=123456
+    volumes:
+      - "C:\\Users\\alexl\\Desktop\\Jenkins-Udemy\\jenkins_data\\mysql_data:/var/lib/mysql"
+    networks:
+      - net
 networks:
   net:
